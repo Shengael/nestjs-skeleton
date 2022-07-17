@@ -12,7 +12,6 @@
         "requireCleanWorkingDir": true,
         "commitMessage": "chore(release): publish ${version} release",
         "commit": true,
-        "commitArgs": ["--no-verify"],
         "tag": true,
         "tagAnnotation": "chore(release): publish ${version} release",
         "tagName": "v${version}",
