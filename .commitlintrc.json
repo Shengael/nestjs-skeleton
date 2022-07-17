@@ -13,14 +13,8 @@
             [
                 "common",
                 "core",
-                "sample",
-                "microservices",
-                "express",
-                "fastify",
-                "socket.io",
-                "ws",
-                "testing",
-                "websockets"
+                "pipeline",
+                "release"
             ]
         ]
     }
