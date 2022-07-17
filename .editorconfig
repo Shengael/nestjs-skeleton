@@ -14,4 +14,4 @@ indent_size = 4
 
 # Matches the exact files either *.json or *.yml
 [*.{json,yml}]
-indent_size = 2
+indent_size = 4
